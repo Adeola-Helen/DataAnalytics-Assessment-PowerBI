@@ -67,9 +67,4 @@ NB: Transaction amount has been converted from kobo to naira for effective  visu
 \- Power BI Desktop    
 \- DAX for calculated columns and measures    
 \- Custom visuals: bar charts, pie charts, matrix tables, and KPI cards    
-\- Filter panes, drill-through features, and page navigation
-
-\---
-
-\*\*Adebiyi Adeola\*\*    
-\*Data Analyst-in-Training\*  
+\- Filter panes, drill-through features, and page navigation  
